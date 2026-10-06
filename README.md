@@ -10,7 +10,7 @@
 
 [Dataset Used](https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset?select=BlinkIT-Grocery-Data.csv)
 
-[SQL Analysis Code](https://github.com/Gaurabh007/Blinkit-Data-Analysis-SQL/blob/main/Blinkit_Data_Analysis.sql)
+[SQL Analysis Code](Blinkit_Data_Analysis.sql)
 
 - **Business Problem:** To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power Bl. They need a robust and scalable data analytics solution to handle the amount of data and uncover valuable patterns and trends.
 
