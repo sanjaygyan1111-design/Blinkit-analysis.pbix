@@ -6,14 +6,11 @@
         height="600" 
         style="display: block; margin: 0 auto" />
 
-**Tools Used :** SQL, Excel, Power BI
+**Tools Used :** SQL, Excel,
 
 [Dataset Used](https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset?select=BlinkIT-Grocery-Data.csv)
 
 [SQL Analysis Code](https://github.com/Gaurabh007/Blinkit-Data-Analysis-SQL/blob/main/Blinkit_Data_Analysis.sql)
-
-[Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=84987c39-014f-4f93-93d9-1d22346a7933&autoAuth=true&ctid=9c57347d-760c-410c-8ea1-f1c42e38522d)
-<img width="1378" height="770" alt="image" src="https://github.com/user-attachments/assets/405f58ad-954d-4827-8fe3-850326877ca2" />
 
 - **Business Problem:** To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power Bl. They need a robust and scalable data analytics solution to handle the amount of data and uncover valuable patterns and trends.
 
